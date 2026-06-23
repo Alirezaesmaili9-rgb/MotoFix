@@ -188,14 +188,14 @@ MotoFix is a **first-line diagnostic aid**, not a replacement for a qualified me
 
 ## 👨‍💻 نویسنده | Author
 
-**علی‌رضا اسماعیلی** | **Alireza Esmaeili**  
+**علیرضا اسماعیلی** | **Alireza Esmaeili**  
 بنیان‌گذار، [بازرگانی اسماعیلی](https://esmaeilitrading.com)  
 Founder, [Esmaeili Trading](https://esmaeilitrading.com)
 
-نمایندهٔ رسمی Yamaha · Benelli · Giant — خاور ایران  
+نمایندهٔ رسمی Yamaha · Benelli · Honda 
 Official Yamaha · Benelli · Giant dealership — Eastern Iran
 
-📧 alireza@esmaeilitrading.com  
+📧 alirezaesmaili9@gmail.com 
 🌐 esmaeilitrading.com
 
 </div>
