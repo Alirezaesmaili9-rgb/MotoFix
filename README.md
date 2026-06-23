@@ -1,5 +1,4 @@
-# MotoFix
-Intelligent motorcycle diagnostic tool for Iranian market.
+
 # موتوفیکس | MotoFix 🔧
 
 <div dir="rtl">
