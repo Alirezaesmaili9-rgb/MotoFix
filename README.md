@@ -3,7 +3,7 @@
 
 <div dir="rtl">
 
-### ابزار تشخیص هوشمند موتورسیکلت برای بازار ایران
+### ابزار تشخیص هوشمند مشکلات موتورسیکلت برای بازار ایران
 **Intelligent Motorcycle Diagnostic Tool for the Iranian Market**
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
